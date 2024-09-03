@@ -48,7 +48,6 @@ body {
 .maintainance-container img {
   padding: 0.75rem;
 }
-
 .exclamation-mark {
   background-color: #E5EEFE;
   border-radius: 50%;
@@ -66,13 +65,12 @@ body {
   position: absolute;
   top: 0;
 }
-
 #left-rectangle {
-    left: 9;
-    background: linear-gradient(to right,#BFD5FC 60%, #E5EEFE 40%); /* Gradient from top to bottom */
+    left: 10;
+    background: linear-gradient(to right,#BFD5FC 60%, #E5EEFE 40%);  
   }
 
 #right-rectangle {
     right: 10;
-    background: linear-gradient(to left ,#BFD5FC 60%, #E5EEFE 40%); /* Gradient from top to bottom */
+    background: linear-gradient(to left ,#BFD5FC 60%, #E5EEFE 40%);  
   }
